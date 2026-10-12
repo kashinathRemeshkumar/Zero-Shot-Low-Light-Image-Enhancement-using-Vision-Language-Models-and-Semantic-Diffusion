@@ -91,3 +91,29 @@ If you reference this work, please cite the accompanying paper: *Zero Shot Low L
 ## License
 
 MIT
+
+## Publication
+
+This work has been published in the *International Journal on Emerging Research Areas (IJERA)*.
+
+> Kashinath Remeshkumar, Abhijith R, Kevin Varghese Theveril, Hema H, Dan Philip Bobby. "Zero Shot Low Light Image Enhancement using Vision Language Models and Semantic Diffusion." *International Journal on Emerging Research Areas (IJERA)*, vol. 6, no. 1, pp. 77–83, May 2026. ISSN 2230-9993.
+
+- **Paper page:** https://ijera.in/index.php/IJERA/article/view/380
+- **Full text (PDF):** https://ijera.in/index.php/IJERA/article/download/380/314
+
+BibTeX:
+
+```bibtex
+@article{remeshkumar2026zeroshot,
+  author  = {{Kashinath Remeshkumar} and {Abhijith R} and {Kevin Varghese Theveril} and {Hema H} and {Dan Philip Bobby}},
+  title   = {Zero Shot Low Light Image Enhancement using Vision Language Models and Semantic Diffusion},
+  journal = {International Journal on Emerging Research Areas},
+  volume  = {6},
+  number  = {1},
+  pages   = {77--83},
+  year    = {2026},
+  month   = may,
+  issn    = {2230-9993},
+  url     = {https://ijera.in/index.php/IJERA/article/view/380}
+}
+```
