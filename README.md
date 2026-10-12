@@ -104,7 +104,7 @@ This work has been published in the *International Journal on Emerging Research 
 BibTeX:
 
 ```bibtex
-@article{remeshkumar2026zeroshot,
+@article{kashinathremeshkumar2026zeroshot,
   author  = {{Kashinath Remeshkumar} and {Abhijith R} and {Kevin Varghese Theveril} and {Hema H} and {Dan Philip Bobby}},
   title   = {Zero Shot Low Light Image Enhancement using Vision Language Models and Semantic Diffusion},
   journal = {International Journal on Emerging Research Areas},
